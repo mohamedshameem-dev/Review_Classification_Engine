@@ -1,4 +1,4 @@
-# 🤖 LLM Review Batch Analyzer
+# 🤖 Review Classification Engine
 
 Batch-optimized LLM-based automated customer review classification and sentiment detection engine using Ollama + Llama3.
 
