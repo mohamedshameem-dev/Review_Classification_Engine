@@ -4,8 +4,9 @@ import json
 from ollama import chat
 
 #error handling for reading file
+#for security concern i have updated incorrect file path.
 try:
-    filepath ="D:/New folder/Preparations/Learn python/Practice/py Data/AI projects/sample_reviews.csv"
+    filepath ="XYZ:/AI projects/sample_reviews.csv"
     df =pd.read_csv(filepath)
 except Exception as e:
     print("Report not found:", e)
