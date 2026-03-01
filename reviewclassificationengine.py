@@ -52,9 +52,8 @@ for i in range(0, len(df), batch_size):
     print(f"\n=== Batch {i//batch_size + 1} RAW OUTPUT ===")
     print(raw_output)
 
-    # ==============================
+
     # Safe JSON Extraction
-    # ==============================
     try:
         # Extract JSON array safely
         start = raw_output.find("[")
