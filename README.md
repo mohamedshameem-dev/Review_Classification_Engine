@@ -111,3 +111,5 @@ New Batch Approach:
 - Save output to CSV
 - Real-time dashboard integration
 - Deploy as REST API
+
+## follow me for more interesting contents
